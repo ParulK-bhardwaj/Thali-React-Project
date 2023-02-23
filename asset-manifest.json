@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Thali-React-Project/static/css/main.21bbb8a8.css",
+    "main.js": "/Thali-React-Project/static/js/main.b35cd46d.js",
+    "static/js/787.1b9451d5.chunk.js": "/Thali-React-Project/static/js/787.1b9451d5.chunk.js",
+    "static/media/background.jpeg": "/Thali-React-Project/static/media/background.338883b11ca098894fdc.jpeg",
+    "static/media/logo-no-background.png": "/Thali-React-Project/static/media/logo-no-background.05fc708a90dd48a07b6f.png",
+    "index.html": "/Thali-React-Project/index.html",
+    "main.21bbb8a8.css.map": "/Thali-React-Project/static/css/main.21bbb8a8.css.map",
+    "main.b35cd46d.js.map": "/Thali-React-Project/static/js/main.b35cd46d.js.map",
+    "787.1b9451d5.chunk.js.map": "/Thali-React-Project/static/js/787.1b9451d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21bbb8a8.css",
+    "static/js/main.b35cd46d.js"
+  ]
+}
