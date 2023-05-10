@@ -64,6 +64,38 @@ The dish detail page has the info about the dish.
 ### Details - Desktop
 ![image](https://github.com/ParulK-bhardwaj/Thali-React-Project/assets/111934039/476b3b33-289b-4393-b22f-6de3177e253f)
 
+## User Stories
+### User story One: 
+![image](https://github.com/ParulK-bhardwaj/Thali-React-Project/assets/111934039/1d996d96-8c7f-487d-8a14-5e75739c3e27)
+
+April: April is a vegetarian, a mother of one 18 months old and a 4 year old, she and her husband are planning to go to the South region of India to explore the backwaters but want to make sure that there is food available for her kids. 
+Demographic: Age 30 to 35 years old, Gender: Female
+Location: Tourist
+Activities: She is looking for the local food and where to eat recommendations that is kid friendly (Less Spicy and Vegetarian) in the southern region.
+Information, most interested in: What category the food belongs to, spice level and regional dishes. Where to eat.
+What might look for in the site: Search: Region. Filter by Spice level and the food category filter. Where to eat Reco.
+
+### User story Two: 
+![image](https://github.com/ParulK-bhardwaj/Thali-React-Project/assets/111934039/c0d13b19-bcb8-48d6-a9cc-8cdadf4c8f0c)
+Jason: Jason is a working professional who loves to travel and experience different cultures but also like to cook and looking for the dish names that are local and are must eats so he can find the recipes and recreate them 
+Demographic: Age 20 to 35 years old, Gender: Male
+Location: Lives in Toronto
+Activities: He is looking for all types of food recommendations and Information, most interested in ingredients.
+What might look for in the site: Search: By Non-vegetarian/vegetarian, spice level or ingredients. 
+
+### User story Three:
+![image](https://github.com/ParulK-bhardwaj/Thali-React-Project/assets/111934039/d25b729c-e6b4-4623-968f-c11c59acf31f)
+
+Himika: Himika is a young IT professional in Bangalore, India and belongs to Udaipur, Rajasthan. She is a foodie and is looking to see if her favorites made the cut. 
+Demographic: Age: 25 year old, Gender: Female
+Location: Lives in Bengaluru, India.
+Activities: She is looking to see if her favorites made the cut. 
+Information, most interested in: Food Dish list
+What might look for in the site: Search: Search: by name, 
+reviews, images of the dishes, share the Where to Eat via mobile.
+
+** Memojis are sourced from: https://www.phonearena.com/news/Apple-Memoji-WWDC-2021_id132638
+
 ## Contributing
 
 Contributions are always welcome! If you have any suggestions or feature requests, feel free to submit a pull request or create a new issue.
